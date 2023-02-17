@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@ant-design/icons": "5.0.1",
+    "@ant-design/pro-components": "2.3.57",
+    "axios": "1.3.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "use-sync-external-store": "1.2.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "name": "card-tasks",
+  "description": ""
+}
